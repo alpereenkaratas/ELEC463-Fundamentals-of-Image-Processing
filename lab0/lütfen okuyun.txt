@@ -1,0 +1,1 @@
+Image.cpp dosyasında bu ödev için oluşturmuş olduğum kendime ait fonksiyonlar 680.satırdan itibaren başlamaktadır.
